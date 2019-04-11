@@ -1,0 +1,16 @@
+{
+    "name": "cdefoe/vehiclefaker",
+    "description": "Use faker to get real vehicle information using the NHTSA API",
+    "require": {
+        "fzaninotto/faker": "^1.9@dev",
+        "guzzlehttp/guzzle": "^6.3@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ChanningDefoe",
+            "email": "channingdefoe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
