@@ -1,6 +1,12 @@
 # VehicleFaker
 Uses NHTSA API to generate real vehicle year, make, model information.
 
+## Installation
+
+```sh
+composer require cdefoe/vehiclefaker
+```
+
 ## Basic Usage
 
 Use `Faker\Factory::create()` to create and initialize a faker generator.
