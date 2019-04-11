@@ -16,7 +16,7 @@ class NHTSA
     public static function makes() : array
     {
         $makes = array(
-            'Acura', 'Cadillac', 'Chevrolet', 'Chrysler', 'Dodge', 'Lexus', 'Mitsubishi', 'pasda', 'asdasd'
+            'Acura', 'Cadillac', 'Chevrolet', 'Chrysler', 'Dodge', 'Lexus', 'Mitsubishi', 'Ford'
         );
         return $makes;
     }
