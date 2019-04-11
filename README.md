@@ -1,4 +1,4 @@
-# VehicleFaker
+# Vehicle Faker
 Uses NHTSA API to generate real vehicle year, make, model information.
 
 ## Installation
